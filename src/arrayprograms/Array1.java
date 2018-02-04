@@ -3,7 +3,7 @@ package arrayprograms;
 public class Array1 {
 
 	public static void main(String[] args) {
-		//second commit
+		//third commit
 		int abc[][]={{2,1,5}, {3,0,7}, {1,2,9}};
 		int min=abc[0][0];
 		
